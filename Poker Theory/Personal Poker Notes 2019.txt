@@ -1,0 +1,244 @@
+Opening hand: Know which hands to always raise initially, which to sometimes, which to fold
+
+Bet sizing: Pre-flop, stick to standard raise sizes based on the game flow
+
+Bet sizing: Post-flop, c-bet should be 50%-70% of the pot. Too small invites re-raise, too big could be an overcommit if you lose
+
+Bluffing bet size: Don't bet more than you need to force the fold or it's wasting money if they call
+
+Bet sizing value: Too small leaves money on the table, too large scares away the victims
+
+No limping in general, try to open raise if first to enter the pot. If someone already open raised, call/3-bet/fold based on enemy player
+
+	-Reasons: Don't give the blinds an easy pass, dont play weak hands, too many people see the flop with no info gathered on 	 them, wont get value on winning flop, easily become dead money in pot
+	
+	-Exception: Limping is okay when the game is passive and the odds of seeing the flop unraised are good, and you have either a 	 speculative hand like suited connectors, or you are trying to set mine a low pocket pair
+
+Fold trash hands, don't try to limp them to the flop (unless you get nutty pot odds)
+
+"Position": Getting to see someone act in the round before you do, very powerful and underestimated. Huge information advantage
+
+Check-raise: Can only be done out of position, check with a good hand and trick on position player into making a bet, then raise him
+	-Works particularly well against opponents who are aggro enough to bet on many hands if checked to
+	-Can also be used to bluff instead of value
+
+Push-fold strategy: Used when stack becomes very low (~10 BB or smaller), you either push all in or you fold
+
+M Zone strategy: Playing based on the ratio of your stack to the starting pot size
+	Green Zone (M > 20): Can play aggro or passive, just try to build stack but lots of wiggle room
+	Yellow Zone (10 < M < 20 ): Can no longer play passive, the blinds are starting to damage your stack. Must play looser and some
+				  some hands like low pairs and suited connectors become unfavorable to play
+	Orange Zone ( 6 < M < 10 ): No marginal calls or limping at all, must be first in to play and conserve chips for an all-in
+	Red Zone ( 1 < M < 5 ): Basically must go all in with anything playable and try to scoop up blinds and scrounge
+	Dead Zone ( M < 1 ): Make your move before the BB arrives and be first in. You will need great luck to recover from here
+
+B-SB-BB Trio: Most players are too passive in these spots, look to dominate them from Position
+
+Bubble: In tournaments when the bubble is approaching, players will become more passive for fear of missing the money. Locate these cowards and take advantage of them
+
+Limp re-raise: Good way to bait in more aggressive players and squeeze extra chips out of them; if they dont bite you still get to see the flop
+
+Probe bet on Flop: Decent chance to get non top pairs to fold
+
+Isolation Play: Re-raising the opening raiser to push the rest of the players out of the pot. Used against shortstacks, limpers, and 		maniacs
+
+Overbet: Making a rather large bet, generally bigger than the total pot size. Can be used to bluff or seek value
+
+Blocker bet: Making a smaller bet than you think the players in position over you would, generally to try to see the river more cheaply and getting some fold equity yourself.
+
+Defending blinds: Tight range to play out of blinds, don't feel obligated to play weak hands on sunk cost fallacy
+	Small blind guideline: Defend 77+, TJs+, AK, AQ, raise with QQ+. Treat as any other position but with better pot odds.
+
+Floating the Flop: Calling a bet on the flop instead of raising to see the turn and get more info. If they check to you on the turn, 	you bet and take the pot. Careful for check-raise bait.
+		-Best against tight aggressive players who c-bet and pre-flop raise consistently
+		-Only float in position, head to head, vs tight aggressive players who will fold to strength
+
+Light 3-bet: Re-raising pre flop with a hand likely worse than the raiser's
+
+Nit Exploitation (Tight passive):
+
+	Preflop tendencies:
+
+1. Open-raising too tightly. Counter: Tighten up continuation range
+2. Folding to 3-bet too often. Counter: Expand 3-bet bluffing range
+3. Folding in BB too much. Counter: Expand open-raising range from button
+4. 3-betting and 4-betting too tightly, <5% and <2.3% respectively. Counter: Call 3-bets more with pocket pairs, fold broadways. Fold to 4-bets unless QQ+ or AK
+
+	Postflop tendencies:
+
+1. Folding too much vs c-bets and barrels (50%+). Counter: Be more agressive with anything bluffable. Watch how later streets are played, as an example maybe a player will frequently fold to a single barrel, but rarely a double barrel. Firing off again is -EV against this type of behavior.
+2. Check-folding after being preflop aggressor. Counter: Float bet more often, they will usually have unbalanced check-raise range.
+3. Under-bluffing on third barrel. Many players fail to shoot off third barrel, so when tight players do, it's more likely not a bluff. Counter: Make the tough laydown on river from 3rd barrel.
+4. Folding too much vs probe bets. Counter: Increase probe bet frequency. Duh.
+5. Folding too much vs delayed c-bets. Counter: Increase bet frequency. Another duh.
+
+Rule of Four and Two
+
+To get a rough estimate of your odds in a hand postflop, count your outs and multiply by 2 for turn/river or 4 for turn and river. So if you have 9 outs after the flop, you have a 36% chance of winning.
+
+Equity: the share of the pot that is yours based on the odds that you will win the pot at that point in play. Equity changes after each street – pre-flop, flop, turn and river. 2k pot with 75% chance to win means you have an equity of 1500 chips.
+
+Expected value: The average return you would expect to make over a long number of identical trials
+
+Common Pre-Flop Mistakes:
+
+1. Limping– Avoid open-limping and raise instead!
+2. Lacking positional awareness– Always consider the ways in which your opponent’s position impacts their range.
+3. Playing too passively against raises– Develop a well thought out 3-bet range, and be careful not to flat too many opens.
+4. Playing too tight in the big blind– Take advantage of great pot odds and see a flop—you just might hit it!
+5. Raising too wide (or not enough) on the button– Aim to open between 40% and 70% of hands depending on the tendencies of the 	players in the blinds.
+6. Playing too tight from the small blind when the action folds to you– Raise a fair number of hands and steal that dead money.
+7. Not flatting often enough from the button– Take advantage of your position and call with a wide but playable range.
+8. Regularly flatting opens from the small blind– Punish openers, deny the big blind a cheap flop, and prevent squeezes by 3-betting 	most of your continue range from the small blind.
+9. Overvaluing offsuit broadway hands– Approach hands like KJo and QJo with caution. Consider how likely it is that you are dominated 	before continuing. Think about villains' range.
+10. Calling excessively large 3-bets– Fold all but your strong hands, and 4-bet with only your strongest hands.
+11. Having no plan– Think through your pre-flop strategy before your sessions.
+12. Arbitrarily mixing it up – Always have a have a specific purpose for each play.
+ 
+One thing I personally overlook constantly is blockers. For example, if I have two hearts in my hand, it lowers the odds of other players having hearts in their hand. Obvious, but easy to leave out of calculations. When deciding effective bluffs on the river, it can help you narrow your opponent's range and determine which cards are better for a bluff.
+
+OMC: Old man coffee, incredibly tight player who folds almost everything but JJ+ and AK
+
+Donk bet: A leading bet made postflop from out of position. Generally not good, but can have merit as a blocking bet or raise inducer
+
+Dark bet: Betting without looking at your cards
+
+Interestingly, low suited connectors like 23s fare significantly better against AA than AKs does. Middle range suited connectors do even better. The best suited connectors heads up versus AA are 65s...
+
+For KK, the best suited connected pair is 45s. Upper range fares badly, mid range is fairly equal, with lower and lower connectors being better until 34s.
+
+Straddling: putting out a bet UTG before any of the cards are dealt in the hand. Shrinks effective stack size.
+
+AKo loses headups to every fucking pair just fold if anyone goes all in pre at tight tables unless you are very short stacked
+
+Apparently, the GTO fold to 4-bet frequency against general population is 55%.  
+
+Make sure not to bet size according to hand strength pre-flop, bet size based on position. Otherwise villains will quickly be able to guess your range.
+
+Implied odds indicates the amount of money that you expect to win after completing your draw. The more disguised your power is, the greater your implied odds.
+
+Fold equity: Chances of causing your opponent to fold
+
+Big stack strategy: Play more aggressive pre-flop, try to pick up dead money not available to other players who have to be more 	conservative. Tighten up post-flop, try to stay out of big pots, much more important to protect lead than to eliminate 	people.
+
+Defending blinds: Current meta in live poker is frequently a late position min raise. Against this as a blind, it is usually mathematically viable to call and at least see the flop, and then tighten up a lot if you dont connect.
+
+Pocket Jacks: Play slower in early tournament when everyone has good stacks, dont be afraid to fold if multiple raisers pre-flop. Jam if stack is low.
+
+Table Talk: Keep your mouth shut until you're actually good or you will be leaking info
+
+Small ball approach: Look to see a lot of flops cheaply, and try to outplay from there, avoid huge pots and all-ins
+
+Home run hitter approach: Big raises and all-ins when necessary, potential to shut down a small ball strat if you prevent them from 	seeing many flops. Easier to play overall because you have less decisions to make as you go to the flop less, but worse EV in 	the long run compared to small ball
+
+"If you bluff a bad player, you then become one."
+
+Collecting bullets: To shut down overly aggro players who play a wide range of hands, wait for great cards and then slow play them 	really hard and they will trap themselves betting into you. Good when the bully has position on you and they bet your checks 	but fold to your bets
+
+Anti-Bully Strat: If you have position on the bully instead, put a lot of pressure on them by raising them more frequently and they 	will usually be forced to back off
+
+Good advice for newer players is to raise 5x BB; if that number is more than 30% of your stack, shove.
+
+Cautious aggro: FIrst goal is to pick up blinds, if that fails pick up pot post-flop, failing that hoping for a strong hand third.
+
+Newer players are more likely to make bigger bets (pot size), while pros usually mix it up with 1/3, 1/2, and 3/4 pot size bets
+
+Suited hole cards only complete a flush about 5% of the time. Suited cards do give an incremental advantage and can give good semi 	bluff chances, but chasing too many draws is a bankroll drainer
+
+D Neg's Small Ball twist: Playing small pocket pairs and suited connectors are much easier than play broadway hands. You either land 	well on the flop or you can tell it's hopeless immediately. If you have KJo for example, you could land a jack on the flop 	and have top pair and still easily be dominated by QQ, KK, AA, AJ, and only about a coin flip against something unpaired like 	AQ, but it's tougher to make the laydown.
+
+When shortstacked and trying to steal blinds, try to target smaller stacks and tighter players. It's impossible to steal from big 	stacks who play a wide range.
+
+Pro players like to enter the action at around 2.5x BB or more, recommended for beginners to open with larger raise
+
+In MTT play, small pairs and suited connectors go up in value during the early stages of the tournament when you have a deep stack. 	Don't get too married to big pairs because more players will play weird hands early and you can easily get bogged down in a 	multiway pot and the aces get cracked. Later on in the tournament when stacks are shallower, it's better to have the big 	pairs and tone down on chasing draws and set mining.
+
+On the bubble, dont go to war with other big stacks if you are a big stack. Throw jabs at medium and small stacks, back off if they 	fight back unless you have a strong hand. It's not worth it to blow your chip lead just to try to eliminate small stacks. 	Preserving your weapon of big stack is far more important, the ants will fall when the heel comes down but it doesn't matter whose heel it is.
+
+Big stack concepts: Target short stacks, avoid big stacks, stay out of big pots, apply pressure with constant presence
+
+Mix up slowplaying and fastplaying monster hands to avoid predictability
+
+Dangerous Flops: 
+
+	Paired Flop: Even if you have a pocket pair, an opponent could easily have a set. Don't be afraid to bet, but be cautious if 	they raise you
+	
+	Coordinated Flop: Cards that could reasonably give a straight, such as Q-10-9. The more players in a pot, the more often a 	big pair ends up being a loser
+
+	Flushed Flop: Again, big pairs don't do so hot against flushes. Can either bet the flop and fold to a raise or check the flop 	and try to pressure on the turn if an offsuit comes
+
+Where to sit at the poker table? Try to have aggressive players on your right and passive players on your left. This gives more info on the higher variance player and allows you to steal blinds from the tight player. Keep weaker players on your right as well, they are prone to exploitable mistakes
+
+Importance of the check-raise: Lessens the impact of the positional disadvantage by allowing you to effectively go second if they bet 	into you. Allows trapping of aggro players. Adds another level of deception and bluffing to your game. Makes it difficult for 	players to tell how good your hand is if you mix check-raising in with check-calling and check-folding. Giving a check 		shouldnt be an obvious tell to your hand strength or your opponents will bully you off marginal hands.
+
+To bluff effectively, you must paint an elaborate lie earlier on in the hand so that your bluff has some backstory to it
+
+MIXED STRATEGY OR YOU ARE A FISH
+
+Dont play suited connectors with a shallow stack
+
+How the house always wins: In NLHE, the casino either takes 'rake' or 'collection'. Rake is when a percentage of the pot (up to some maximum flat value) is donated to the house, collection is when all players pay the house at set intervals. Because of this, play more conservatively in raked games and more aggressive in collected games. Collection usually saves more money in the long run.
+
+Bankroll management: Have 300 BBs or more in your bank for a certain level, so for $1/$2 NL you would need $600
+
+Pot odds: Amount of money at stake in the pot to win vs how much you have to call to have a shot at the pot
+
+For heads up play, play waaaay more hands than in 9 seated games. Playing maybe 70-80% instead of 20-30% respectively. It's better to be the bettor than it is to be the caller overall, but check-calling is also a good way to trap the aggressor. 
+
+For short handed play, open a wider range of cards since the blinds and antes are effectively larger. Hands that have value hot and cold (AJs) are better than low-mid suited connectors that are weak if they miss the draws. Playing aggressive is more important the fewer players there are at the table.
+
+Double Belly Buster: When you have two inside straight draws
+
+post-oak bluff: stupid term made up by Doyle Brunson, means the same thing as a "D bet".
+
+Jellyroll: Another stupid term seemingly invented by Doyle, seems to mean "free perk" or "kickback" but not sure
+
+Arid flops: The dryest flops by my calculations are K83r, K82r, K72r, and Q72r. These are the only four flops that make it impossible 	for someone to get either a flush or a straight by the turn, or quads on the flop.
+
+Retaining Equity Against Strong Ranges: Focus on playing hands which have a high amount of equity against the opponent's betting and calling range. Ex. Middle position opens, it's better to call with 89s than A9o since A9o gets dominated by the opponent's range (Ax and big pairs) while 89s can make smaller pairs, straight, or flush
+
+Hand Signaling: Tells us whether our hand is worth trying to see additional cards. For straight and flush draws, it's usually pretty obvious whether continuing is worth it, and it's easy to lay down the cards if no connection with the flop/turn.
+
+Hand Equity Distribution on Different Board Textures: Hands which flop or turn either a lot or a little amount of equity are better than hands which always flop or turn a medium amount of equity. The equity you get being realizable is very important.
+
+Stronger hands are required to win at showdown in 3-bet pots than in raised only pots, so playing hands that are weaker initially but have great potential are optimal. For just calling the raise, choose hands which are better initially but dont have as big potential.
+
+Polarized Range: Consists mostly of strong or weak hands, few to no medium strength hands. Occurs in spots such as pre-flop 3-betting ranges, flop raising ranges, and bluffing on the river or value betting on the river.
+
+Condensed Range: Range consisting of mostly medium strength hands and few/no strong or weak hands. A player will typically have this range after calling or checking several times on a board texture where giving additional cards with strong hands is risky.
+
+Overbet: Bet equal to or greater than pot size
+
+Making Our Opponent Indifferent to Calling on the River: Balance river betting range between value bets and bluffs such that the EV for the villain is 0 for folding or calling with "bluff catcher" range. Otherwise, if you bluff too much he will start calling more or bluff too little he will start folding more and either way it's exploitable.
+
+A player who consistently bluffs with the right hands is "randomizing well" and has a balanced range with hands with the right equity
+
+C bet with made hands, strong draws, and backdoor draws; you want the weakest hands that your opponent should bluff with to have close to 0 EV. This will make the opponent indifferent to bluffing.
+
+Sometimes, you will have two possible theoretical lines with the same EV against an opponenet. You should still respond in a mixed strategy to prevent him from adjusting to exploit you.
+
+Hands wont always be classified as a value bet or a bluff, sometimes they can have properties of both, especially on the flop.
+
+General strategy: We will defend about 27-31% of our opens vs a 3-bet
+
+Typical open is 3.5BB, typical 3-bet size is 10-12BB, and typical 4-bet size is 22-24BB (to win a pot of ~16BB).
+
+A 4-bet from the original raiser needs to succeed slightly less often than a cold 4-bet from a later player
+
+If a player is 5-bet bluffing, it's pretty much going to be a jam most of the time, with Ax and small pocket pairs
+
+5-bet bluffs need to work around 40-50% of the time to be profitable, 4-bet bluffs need around 54-60%, and 3-bet bluffs need around 67-70%
+
+The worst hand in a raise first in range should be the smallest EV which is non-negative. Assumptions:
+	1. Close to EV=0
+	2. Fold frequently to 3-bet
+	3. Raising to 3.5BB, the hand will have a total EV of better than -3.5BB when call instead of 3-bet.
+	4. The hand will not have an EV of greater than 1.5BB. Poker is zero sum, so if the hand is expected to win more than the 	   blinds, then the cold caller is playing suboptimally and his cold call is -EV.
+
+Above assumptions, player risks 3.5BB to win 1.5BB with weakest opening hands, must work 70% to yield profit.
+
+Worst hand in opening range will likely lose money because:
+	1. Weaker than average hand in preflop cold calling range
+	2. Preflop raiser will often be out of position unless he opened on the button or was called by a blind
+	3. If a blind calls, there is less dead money in the pot
+
